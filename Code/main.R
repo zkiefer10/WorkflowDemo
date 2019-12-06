@@ -11,3 +11,4 @@
 ## Process data3
 
 ## Estimate a model with both sets of covariates
+## Here is a conflict
