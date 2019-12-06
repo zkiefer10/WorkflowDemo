@@ -11,3 +11,5 @@
 ## Process data3
 
 ## Estimate a model with both sets of covariates
+
+## Produce some pretty tables and diagrams
