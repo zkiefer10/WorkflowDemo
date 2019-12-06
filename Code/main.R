@@ -2,6 +2,8 @@
 
 ## Process data1
 
-## Estimate a model
+## Read some data "data3.csv"
 
-## Mediocre results
+## Process data3
+
+## Estimate a model
