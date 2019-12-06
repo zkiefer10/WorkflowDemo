@@ -2,10 +2,12 @@
 
 ## Process data1
 
+## Read some data "data2.csv"
+
+## Process data2
+
 ## Read some data "data3.csv"
 
 ## Process data3
 
-## Estimate a model
-
-## Better results!
+## Estimate a model with both sets of covariates
